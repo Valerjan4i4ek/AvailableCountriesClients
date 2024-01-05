@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AvailableCountriesClients:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/AvailableCountriesClients_jar2</output-path>
+    <root id="archive" name="AvailableCountriesClients.jar">
+      <element id="module-output" name="AvailableCountriesClients" />
+      <element id="module-output" name="Client" />
+      <element id="module-output" name="Server" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.16.2/jsoup-1.16.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/mysql/mysql-connector-j/8.0.32/mysql-connector-j-8.0.32.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

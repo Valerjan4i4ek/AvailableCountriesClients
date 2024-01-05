@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AvailableCountriesClients:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AvailableCountriesClients_jar</output-path>
+    <root id="archive" name="AvailableCountriesClients.jar" />
+  </artifact>
+</component>
